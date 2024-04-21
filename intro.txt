@@ -1,0 +1,2 @@
+this the second project of the course containing the complete website 
+it is also the continuation of the flask_project
